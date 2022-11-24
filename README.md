@@ -1,7 +1,7 @@
 <a href="url"><img src="http://www.economicas.uba.ar/econ2019/wp-content/themes/econ2016/img/ui/logo.png"></a>
 
 # Clase sobre Felicidad
-Curso: Behavioral Economics, Dr. Mira, Pablo </br>
+Curso: Conducta y Psicología de las Decisiones, Dr. Mira, Pablo </br>
 
 [Slides](https://github.com/LCaravaggio/ClaseFelicidad_Maestria/blob/main/Clase_Felicidad.pdf)
 
