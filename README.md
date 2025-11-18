@@ -182,3 +182,8 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 <img border="0" title="Mismeasuring Our Lives: Why GDP Doesn't Add Up" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328751713l/7425861.jpg" width="86" height="133.3">
 </a> 
+
+<a href="https://www.goodreads.com/book/show/43309159-together">
+<img border="0" title="Together: Why Social Connection Holds the Key to Better Health, Higher Performance, and Greater Happiness" 
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1569893285i/43309159.jpg" width="86" height="133.3">
+</a> 
