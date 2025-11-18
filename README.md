@@ -1,4 +1,4 @@
-<a href="url"><img src="http://www.economicas.uba.ar/econ2019/wp-content/themes/econ2016/img/ui/logo.png"></a>
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo-FCE.png" height="85"></a>
 
 # Clase sobre Felicidad
 Curso: Conducta y Psicología de las Decisiones, Dr. Mira, Pablo </br>
