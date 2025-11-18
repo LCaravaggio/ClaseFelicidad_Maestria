@@ -3,7 +3,7 @@
 # Clase sobre Felicidad
 Curso: Conducta y Psicología de las Decisiones, Dr. Mira, Pablo </br>
 
-[Slides](https://github.com/LCaravaggio/ClaseFelicidad_Maestria/blob/main/Clase_Felicidad.pdf)
+[Slides](https://github.com/LCaravaggio/ClaseFelicidad_Maestria/blob/main/Clase_Felicidad_2025.pdf)
 
 # Bibliografía
 
