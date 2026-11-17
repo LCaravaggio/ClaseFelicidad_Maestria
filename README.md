@@ -4,7 +4,8 @@
 Conducta y Psicología de las Decisiones Económicas, Dr. Mira, Pablo </br>
 Maestría en Economía Aplicada
 
-[Slides](https://github.com/LCaravaggio/ClaseFelicidad_Maestria/blob/main/Clase_Felicidad_2025.pdf)
+[Slides clase general](https://github.com/LCaravaggio/ClaseFelicidad_Maestria/blob/main/Clase_Felicidad_2025.pdf)</br>
+[Slides clase why](https://github.com/LCaravaggio/ClaseFelicidad_Maestria/blob/main/Clase_Felicidad_Maestría__Why__.pdf)
 
 # Bibliografía
 
