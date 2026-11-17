@@ -1,7 +1,8 @@
 <a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo-FCE.png" height="85"></a>
 
 # Clase sobre Felicidad
-Curso: Conducta y Psicología de las Decisiones, Dr. Mira, Pablo </br>
+Conducta y Psicología de las Decisiones Económicas, Dr. Mira, Pablo </br>
+Maestría en Economía Aplicada
 
 [Slides](https://github.com/LCaravaggio/ClaseFelicidad_Maestria/blob/main/Clase_Felicidad_2025.pdf)
 
